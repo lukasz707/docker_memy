@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/lukasz707/docker_memy/issues"
   },
-  "homepage": "https://github.com/lukasz707/docker_memy#readme"
+  "homepage": "https://github.com/lukasz707/docker_memy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
